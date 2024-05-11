@@ -71,7 +71,6 @@ const RequestLog = () => {
                     <span className="bg-gray-200 text-gray-800 text-xs font-medium px-2 py-1 rounded-full">RELAY</span>
                   </td>
                   <td className="py-2">
-                    <HiOutlineChevronRight className="inline-block" />
                   </td>
                   <td className="py-2">
                     <span className="bg-gray-200 text-gray-800 text-xs font-medium px-2 py-1 rounded-md">{entry.method}</span>
