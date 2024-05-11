@@ -1,10 +1,10 @@
 import React from 'react';
-import CircleGrid from './Components/Circles';
+import ApplicationCard from './Components/ApplicantStatus';
 
 function App() {
   return (
     <div className="h-screen flex items-center justify-center">
-      <CircleGrid />
+      <ApplicationCard />
     </div>
   );
 }
